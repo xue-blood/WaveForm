@@ -1,0 +1,6 @@
+D:\project\Windows\NET\WaveForm\WaveForm\WaveForm\bin\Release\WaveForm.dll.config
+D:\project\Windows\NET\WaveForm\WaveForm\WaveForm\bin\Release\WaveForm.dll
+D:\project\Windows\NET\WaveForm\WaveForm\WaveForm\bin\Release\WaveForm.pdb
+D:\project\Windows\NET\WaveForm\WaveForm\WaveForm\bin\Release\CSCore.dll
+D:\project\Windows\NET\WaveForm\WaveForm\WaveForm\obj\Release\WaveForm.dll
+D:\project\Windows\NET\WaveForm\WaveForm\WaveForm\obj\Release\WaveForm.pdb

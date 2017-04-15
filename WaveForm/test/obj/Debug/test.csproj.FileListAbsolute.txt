@@ -1,0 +1,16 @@
+D:\project\Windows\NET\WaveForm\WaveForm\test\bin\Debug\test.exe.config
+D:\project\Windows\NET\WaveForm\WaveForm\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\project\Windows\NET\WaveForm\WaveForm\test\obj\Debug\MainWindow.baml
+D:\project\Windows\NET\WaveForm\WaveForm\test\obj\Debug\MainWindow.g.cs
+D:\project\Windows\NET\WaveForm\WaveForm\test\obj\Debug\App.g.cs
+D:\project\Windows\NET\WaveForm\WaveForm\test\obj\Debug\test_MarkupCompile.cache
+D:\project\Windows\NET\WaveForm\WaveForm\test\obj\Debug\test.g.resources
+D:\project\Windows\NET\WaveForm\WaveForm\test\obj\Debug\test.Properties.Resources.resources
+D:\project\Windows\NET\WaveForm\WaveForm\test\obj\Debug\test.csproj.GenerateResource.Cache
+D:\project\Windows\NET\WaveForm\WaveForm\test\bin\Debug\test.exe
+D:\project\Windows\NET\WaveForm\WaveForm\test\bin\Debug\test.pdb
+D:\project\Windows\NET\WaveForm\WaveForm\test\bin\Debug\WaveForm.dll
+D:\project\Windows\NET\WaveForm\WaveForm\test\bin\Debug\CSCore.dll
+D:\project\Windows\NET\WaveForm\WaveForm\test\bin\Debug\WaveForm.pdb
+D:\project\Windows\NET\WaveForm\WaveForm\test\obj\Debug\test.exe
+D:\project\Windows\NET\WaveForm\WaveForm\test\obj\Debug\test.pdb
